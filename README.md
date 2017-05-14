@@ -27,6 +27,7 @@ Our project will deal with the issue of spam messages. Spam text messages have b
 #### Links
 
 [https://web.stanford.edu/class/cs124/lec/naivebayes.pdf](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf) 
+
 Extremely short summary of Naive Bayes: [https://stats.stackexchange.com/questions/91177/machine-learning-techniques-for-spam-detection-and-in-general-for-text-classifi](https://stats.stackexchange.com/questions/91177/machine-learning-techniques-for-spam-detection-and-in-general-for-text-classif)i 
 
 Dataset: 
