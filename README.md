@@ -22,13 +22,13 @@ Our project will deal with the issue of spam messages. Spam text messages have b
 
 * Sebastiani, Fabrizio. "Machine learning in automated text categorization." ACM computing surveys (CSUR) 34.1 (2002): 1-47.
 * Guzella, Thiago S., and Walmir M. Caminhas. "A review of machine learning approaches to spam filtering." Expert Systems with Applications 36.7 (2009): 10206-10222.
-* Blanzieri, Enrico, and Anton Bryl. "A survey of learning-based techniques ;of email spam filtering." Artificial Intelligence Review 29.1 (2008): 63-92.
+* Blanzieri, Enrico, and Anton Bryl. "A survey of learning-based techniques of email spam filtering." Artificial Intelligence Review 29.1 (2008): 63-92.
 
 #### Links
 
 [https://web.stanford.edu/class/cs124/lec/naivebayes.pdf](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf) 
 
-Extremely short summary of Naive Bayes: [https://stats.stackexchange.com/questions/91177/machine-learning-techniques-for-spam-detection-and-in-general-for-text-classifi](https://stats.stackexchange.com/questions/91177/machine-learning-techniques-for-spam-detection-and-in-general-for-text-classif)i 
+Extremely short summary of Naive Bayes: [https://stats.stackexchange.com/questions/91177/machine-learning-techniques-for-spam-detection-and-in-general-for-text-classifi](https://stats.stackexchange.com/questions/91177/machine-learning-techniques-for-spam-detection-and-in-general-for-text-classif)
 
 Dataset: 
 [https://www.kaggle.com/uciml/sms-spam-collection-dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
